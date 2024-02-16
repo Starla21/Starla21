@@ -28,7 +28,7 @@ I'm all about coding with a purpose! Currently a junior Computer Science student
 <h3>How I'd define myself...literally</h3>
 
  ```ruby
- class Sy < Person
+ class Starla < Person
    def initialize
      @name = 'Jana Soliman'
      @age = 20
