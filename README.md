@@ -15,3 +15,44 @@ I'm all about coding with a purpose! Currently a junior Computer Science student
 </div>
 
 ---
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/Jana%20Soliman-blue?style=flat-square&logo=Linkedin&logoColor=White)](https://www.linkedin.com/in/jana-soliman-732a36176/)
+  [![LeetCode Badge](https://img.shields.io/badge/Starla21-yellow?style=flat-square&logo=Leetcode&logoColor=black)](https://leetcode.com/_STARLA_/)
+  [![Medium Badge](https://img.shields.io/badge/Jana%20Soliman-green?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@binnaief)
+  [![Kaggle Badge](https://img.shields.io/badge/STARLA21%20-%20blue?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/starla21)
+  [![Gmail Badge](https://img.shields.io/badge/Jana%20Soliman%20-%20red?style=flat-square&logo=Gmail&logoColor=white)](jskywalker144@gmail.com)
+</div>
+<br>
+
+<h3>How I'd define myself...literally</h3>
+
+ ```ruby
+ class Sy < Person
+   def initialize
+     @name = 'Sy Rashid'
+     @age = 31
+     @work = [ 'MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon' ]
+     @education = [ 'Georgia Tech BS', 'HBX/HBS' 'Le Wagon', 'Georgia Tech MS' ]
+     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
+   end
+
+   def current_location
+     'Burke, VA, USA'
+   end
+
+   def next_locations
+     ['Lisbon, PT', 'Barcelona, ESP']
+   end
+
+   def currently
+     {
+       studying: [ 'Network Security' ],
+       reading: [ 'Rails AntiPatterns', 'Deep Work' ],
+       tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
+      }
+   end
+ end
+ ```
+ 
+<br>
