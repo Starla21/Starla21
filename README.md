@@ -79,5 +79,5 @@ I'm all about coding with a purpose! Currently a junior Computer Science student
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Jana's github stats](https://github-readme-stats.vercel.app/api?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Jana's github stats](https://github-readme-stats.vercel.app/api?username=Starla21&show_icons=true&title_color=50C878&icon_color=00A36C&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Jana's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Starla21&show_icons=true&title_color=00A36C&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
