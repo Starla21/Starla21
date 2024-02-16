@@ -20,7 +20,6 @@ I'm all about coding with a purpose! Currently a junior Computer Science student
 
 ## Find me at
 
-<br>
   [![Linkedin Badge](https://img.shields.io/badge/Jana%20Soliman-blue?style=flat-square&logo=Linkedin&logoColor=White)](https://www.linkedin.com/in/jana-soliman-732a36176/)
   [![LeetCode Badge](https://img.shields.io/badge/Starla21-yellow?style=flat-square&logo=Leetcode&logoColor=black)](https://leetcode.com/_STARLA_/)
   [![Medium Badge](https://img.shields.io/badge/Jana%20Soliman-green?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@binnaief)
