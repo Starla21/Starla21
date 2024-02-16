@@ -25,6 +25,7 @@ I'm all about coding with a purpose! Currently a junior Computer Science student
 </div>
 <br>
 
+---
 <h3>How I'd define myself...literally</h3>
 
  ```ruby
