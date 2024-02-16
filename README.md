@@ -2,7 +2,7 @@
  
 # Hello/مرحبًا! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I’m Jana!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Starla21i&label=Profile%20views&color=0e75b6&style=flat" alt="Starla21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Starla21&label=Profile%20views&color=0e75b6&style=flat" alt="Starla21" /> </p>
 
 <div align="center"> <img src="https://github.com/Starla21/Starla21/blob/main/Images/Untitled%20design%20(3).png"> </div>
 <br>
