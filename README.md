@@ -16,8 +16,6 @@ I'm all about coding with a purpose! Currently a junior Computer Science student
 
 ---
 <div align="center">
-
-
 ## Find me at
 
   [![Linkedin Badge](https://img.shields.io/badge/Jana%20Soliman-blue?style=flat-square&logo=Linkedin&logoColor=White)](https://www.linkedin.com/in/jana-soliman-732a36176/)
@@ -27,8 +25,8 @@ I'm all about coding with a purpose! Currently a junior Computer Science student
   [![Gmail Badge](https://img.shields.io/badge/Jana%20Soliman%20-%20red?style=flat-square&logo=Gmail&logoColor=white)](jskywalker144@gmail.com)
 </div>
 <br>
-
 ---
+
 <h3>How I'd define myself...literally</h3>
 
  ```ruby
