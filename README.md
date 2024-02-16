@@ -30,26 +30,22 @@ I'm all about coding with a purpose! Currently a junior Computer Science student
  ```ruby
  class Sy < Person
    def initialize
-     @name = 'Sy Rashid'
-     @age = 31
-     @work = [ 'MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon' ]
-     @education = [ 'Georgia Tech BS', 'HBX/HBS' 'Le Wagon', 'Georgia Tech MS' ]
-     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
+     @name = 'Jana Soliman'
+     @age = 20
+     @work = [ 'COP27', 'DECI Trainer', 'NOC Agent', 'System Analyst' ]
+     @education = [ 'Cairo University BS', 'Women Techsters' 'STEM Maadi' ]
+     @hobbies = [ 'Yoga', 'Karaoke', 'Pizzas' ]
    end
 
    def current_location
-     'Burke, VA, USA'
-   end
-
-   def next_locations
-     ['Lisbon, PT', 'Barcelona, ESP']
+     'Cairo, Egypt'
    end
 
    def currently
      {
-       studying: [ 'Network Security' ],
-       reading: [ 'Rails AntiPatterns', 'Deep Work' ],
-       tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
+       studying: [ 'Data Science' ],
+       reading: [ 'Everybody Lies', 'Deep Work' ],
+       tinkering: [ 'Tensorflow', 'Power BI', 'scikit-learn' ]
       }
    end
  end
